@@ -1,0 +1,5 @@
+init_config:
+    default_timeout: 5
+
+instances:
+    -   url: http://localhost:8888/metrics
